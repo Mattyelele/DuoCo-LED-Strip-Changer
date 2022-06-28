@@ -1,0 +1,14 @@
+E:\C# projects\LEDChanger\LEDChanger\bin\Debug\LEDChanger.exe.config
+E:\C# projects\LEDChanger\LEDChanger\bin\Debug\LEDChanger.exe
+E:\C# projects\LEDChanger\LEDChanger\bin\Debug\LEDChanger.pdb
+E:\C# projects\LEDChanger\LEDChanger\bin\Debug\Renci.SshNet.dll
+E:\C# projects\LEDChanger\LEDChanger\bin\Debug\Renci.SshNet.xml
+E:\C# projects\LEDChanger\LEDChanger\obj\Debug\LEDChanger.csproj.AssemblyReference.cache
+E:\C# projects\LEDChanger\LEDChanger\obj\Debug\LEDChanger.csproj.SuggestedBindingRedirects.cache
+E:\C# projects\LEDChanger\LEDChanger\obj\Debug\LEDChanger.Form1.resources
+E:\C# projects\LEDChanger\LEDChanger\obj\Debug\LEDChanger.Properties.Resources.resources
+E:\C# projects\LEDChanger\LEDChanger\obj\Debug\LEDChanger.csproj.GenerateResource.cache
+E:\C# projects\LEDChanger\LEDChanger\obj\Debug\LEDChanger.csproj.CoreCompileInputs.cache
+E:\C# projects\LEDChanger\LEDChanger\obj\Debug\LEDChanger.csproj.CopyComplete
+E:\C# projects\LEDChanger\LEDChanger\obj\Debug\LEDChanger.exe
+E:\C# projects\LEDChanger\LEDChanger\obj\Debug\LEDChanger.pdb
